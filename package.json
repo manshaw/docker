@@ -1,0 +1,19 @@
+{
+  "name": "@manshaw/docker",
+  "version": "1.0.0",
+  "description": "testing github package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manshaw/docker.git"
+  },
+  "author": "Manshoor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manshaw/docker/issues"
+  },
+  "homepage": "https://github.com/manshaw/docker#readme"
+}
