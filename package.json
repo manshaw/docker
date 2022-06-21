@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/manshaw/docker/issues"
   },
-  "homepage": "https://github.com/manshaw/docker#readme"
+  "homepage": "https://github.com/manshaw/docker#readme",
+  "publishConfig": {
+    "@manshaw:registry": "https://npm.pkg.github.com"
+  }
 }
